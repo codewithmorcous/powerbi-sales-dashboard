@@ -44,7 +44,6 @@ Two tables:
 ## Files
 ├── Phase1_Sales_Dashboard.pbix
 ├── README.md
-└── screenshots/
 └── dashboard.png
 
 ## How to open
