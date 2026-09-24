@@ -38,6 +38,9 @@ Two tables:
 - UPI is the most used payment method, which surprised me
 - Sales peak around October, dip in September
 
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
 ## Files
 ├── Phase1_Sales_Dashboard.pbix
 ├── README.md
